@@ -1,2 +1,7 @@
-# developer-journey
-My first project on git hub
+# My First Project
+
+Hello! 👋
+
+I am learning GitHub.
+
+This is my first repository.
